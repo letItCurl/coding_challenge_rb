@@ -1,4 +1,5 @@
 class Escalier
+
     def initialize(arg)
         @n = arg[0].to_i
         @line = " "*(@n-1)
@@ -26,6 +27,6 @@ class Escalier
     end
 end
 
-#e = Escalier.new(ARGV)
-#e.perform
+e = Escalier.new(ARGV)
 #e.perform_v2
+e.perform
