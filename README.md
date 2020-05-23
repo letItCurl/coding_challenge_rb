@@ -1,5 +1,5 @@
 # RUBY CODING CHALLENGE
->just 8 fully tested ruby codes🔥
+>8 fully tested ruby codes🔥
 
 ***comming soon***
 
