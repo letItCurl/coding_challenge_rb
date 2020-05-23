@@ -4,6 +4,6 @@ class EscalierMocks
     end
 
     def perform
-        system("ruby lib/escalier/escalier.rb #{@n} >> tmp/test.txt")
+        system("ruby lib/escalier/escalier.rb #{@n} >> tmp/escalier.log")
     end
 end

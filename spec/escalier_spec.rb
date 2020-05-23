@@ -4,8 +4,8 @@ require "./spec/mocks/escalier_mocks"
 
 describe EscalierMocks do
   before do
-    @escalier = EscalierMocks.new(5)
-    @escalier.perform
+    #@escalier = EscalierMocks.new(5)
+    #@escalier.perform
   end
 
   describe "perform" do
