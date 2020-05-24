@@ -12,14 +12,12 @@ class Tri
         @len = @arr.size
         @range = (0..@len-1)
         for index in @range
-            @arr_range = @arr.slice(1 , @len - index)
+            @arr_range = @arr.slice(0 , @len - index)
             @max = @arr_range.max
-            @index = @arr_range.each_with_index.max[1]
-            puts "#run #{index}"
-            puts "value: #{@max} / #{@index}"
-            swap @arr_range.size, @index
+            puts @arr_range.join('') + " | " + @max + " | swap: " + @arr_range.index(@max).to_s + " | " + (@arr_range.size-1).to_s
+            swap @arr_range.index(@max), @arr_range.size-1
         end
-        puts @arr
+        puts @arr.join('')
     end
 end
 
