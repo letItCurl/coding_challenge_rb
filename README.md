@@ -1,7 +1,7 @@
 # RUBY CODING CHALLENGE
->8 ruby codes🔥
+>ruby is 🔥
 
-***comming soon***
+***test framework comming soon***
 
 # About me
 
