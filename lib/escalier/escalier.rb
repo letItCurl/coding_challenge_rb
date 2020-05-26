@@ -28,5 +28,5 @@ class Escalier
 end
 
 e = Escalier.new(ARGV)
-#e.perform_v2
-e.perform
+e.perform_v2
+#e.perform
