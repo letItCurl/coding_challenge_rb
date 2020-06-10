@@ -2,6 +2,7 @@
 >ruby is 🔥
 
 ***test framework comming soon***
+***testing rspec***
 
 # About me
 
