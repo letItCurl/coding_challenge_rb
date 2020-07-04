@@ -1,8 +1,7 @@
 # RUBY CODING CHALLENGE
 >ruby is 🔥
 
-***test framework comming soon***
-***testing rspec***
+these are ruby training exercices 
 
 # About me
 
