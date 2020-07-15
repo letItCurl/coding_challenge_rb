@@ -1,7 +1,7 @@
 # RUBY CODING CHALLENGE
 >ruby is 🔥
 
-these are ruby training exercices 
+These are ruby training exercices 
 
 # About me
 
