@@ -1,5 +1,5 @@
 # RUBY CODING CHALLENGE
->ruby is 🔥
+>ruby is 🔥🔥
 
 These are ruby training exercices 
 
